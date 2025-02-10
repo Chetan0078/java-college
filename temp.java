@@ -6,5 +6,6 @@ class temp {  // Class name changed to 'temp' to match file name
 
     void sayHello() {
         System.out.println("Hello, World!");
+        System.out.println("jeeno jeeno teniyo ramto to!!!!!!!!!!!!!!!");
     }
 }
